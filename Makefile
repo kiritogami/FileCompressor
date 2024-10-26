@@ -1,6 +1,6 @@
 CC = g++
 CFLAGS = -std=c++17 -Wall
-SRC = huffmanCompressor.cpp main.cpp
+SRC = huffmanCompressor.cpp RLECompressor.cpp main.cpp
 OUT = huffman
 
 all:
